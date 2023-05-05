@@ -1,0 +1,16 @@
+a) Différence entre les commandes "git pull" et "git fetch"
+La diffference entre ces deux commande est que la commande "git pull" permet d'intégrer les modification dans un autre repertoire ou sue une branche local
+tandis que "git fetch" permet de mettre a jour les object et les references d'un
+repertoire
+
+b) Annuler les modifications locales non validées dans git
+pour annuler les modifications on pourrait utiliser la commande "git restore"
+
+c) Pour supprimer une branche distante dans git on utilise la commande "git 
+<nom de la branche> -d
+
+d)Pour voir l'historique des modifications sur un fichier specifique on tape la commande "git log"
+
+CONTENUE DE MON CHOIX:
+Je m'appele aristide, je serai le plus grand pirate que le monde n'es connu...
+
